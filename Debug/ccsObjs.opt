@@ -1,0 +1,1 @@
+"./symFir.obj" "./main.obj" -l"rts55x.lib" "../FIR_dec.cmd" "../csl5509x.lib" 
